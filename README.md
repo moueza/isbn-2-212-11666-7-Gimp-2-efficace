@@ -1,0 +1,1 @@
+# isbn-2-212-11666-7-Gimp-2-efficace
