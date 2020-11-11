@@ -26,5 +26,7 @@
   SF-DRAWABLE "Drawable" 0
 )
 
+;;(script-fu-menu-register "script-fu-guides-remove"
+  ;;                       "<Image>/Image/Guides")
 (script-fu-menu-register "script-fu-guides-remove"
-                         "<Image>/Image/Guides")
+                         "<Image>/Guides")
